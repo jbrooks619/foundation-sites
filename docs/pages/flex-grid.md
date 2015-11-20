@@ -109,12 +109,12 @@ We have a few shorthand classes for the above behavior. Use the `.[size]-unstack
 
 ```html_example
 <div class="row medium-unstack">
-  <div class="columns">One</div>
-  <div class="columns">Two</div>
-  <div class="columns">Three</div>
-  <div class="columns">Four</div>
-  <div class="columns">Five</div>
-  <div class="columns">Six</div>
+  <div class="column">One</div>
+  <div class="column">Two</div>
+  <div class="column">Three</div>
+  <div class="column">Four</div>
+  <div class="column">Five</div>
+  <div class="column">Six</div>
 </div>
 ```
 
